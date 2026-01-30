@@ -60,7 +60,6 @@ Displays, 2025.
 # 🎖 Selected Honors and Awards
 2023.09-now (Shanghai Normal University):
 - National Scholarship (**The highest national wide scholarship for students in China**)
-- 2021.09 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 2019.09-2023.06 (Nanjing Institute of Technology):
 - National Scholarship (**The highest national wide scholarship for students in China**)
