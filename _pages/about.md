@@ -20,6 +20,8 @@ redirect_from:
 # 👋 Biography
 I am **Yilin Chen** (陈逸霖), a Master’s student in Computer Science and Technology at Shanghai Normal University (SHNU), under the supervision of Prof. [Xiao Lin](https://teacher.shnu.edu.cn/xxjdgcxy/lx/list.htm). My research focuses on low-quality image enhancement, image restoration under adverse weather conditions and feed-forward scene reconstruction. If you’re interested in my research, feel free to reach out. I’d be happy to discuss questions, suggestions, or potential collaborations.
 
+Email: chenyilin0126@gmail.com / chenyilin0126@126.com
+
 
 # 🔥 News
 - 2025.12: &nbsp;🎉🎉 One co-author paper is accepted by *Displays*.
@@ -60,10 +62,16 @@ Displays, 2025.
 # 🎖 Selected Honors and Awards
 <span style="font-size: 1.2em;">2023.09-now (Shanghai Normal University):</span>
 - National Scholarship (**The highest national wide scholarship for students in China**)
+- First Prize of “HUAWEI Cup” The 21st China Post-Graduate Mathematical Contest in Modeling
+- Shanghai City Silver Prize of the China International College Students' Innovation Competition
+
 
 <span style="font-size: 1.2em;">2019.09-2023.06 (Nanjing Institute of Technology):</span>
 - National Scholarship (**The highest national wide scholarship for students in China**)
+- Scholarship of China Telecom, Fei Young Award (中国电信奖学金·飞Young奖)
 - Outstanding Graduates of Jiangsu Province
+- Outstanding Student Leader of Jiangsu Province
+- Top Ten Outstanding Student Role Models of Nanjing Institute of Technology (**The highest honor for students in NJIT**)
 
 # 📖 Educations
 - 2023.09-now: Computer Science and Technology, Shanghai Normal University (SHNU). 
