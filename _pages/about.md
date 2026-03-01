@@ -42,7 +42,7 @@ Xiao Lin^, **Yilin Chen**^, Wei Huang, Qizhe Yang, Jingyu Gong*
 
 Pattern Recognition (**PR**), 2025 <span style="color: #f00;">[CCF B]</span>
 
-[[Paper](https://doi.org/10.1016/j.patcog.2026.113345) [Code](https://github.com/Kingsley-Cyl/DeRestormer)] 
+[[Paper](https://doi.org/10.1016/j.patcog.2026.113345)] [[Code](https://github.com/Kingsley-Cyl/DeRestormer)]
 </div>
 </div>
 
