@@ -24,7 +24,7 @@ Email: chenyilin0126@gmail.com / chenyilin0126@126.com
 
 
 # 🔥 News
-- 2026.12: &nbsp;🎉 One paper is accepted by *Pattern Recognition*.
+- 2026.2: &nbsp;🎉 One paper is accepted by *Pattern Recognition*.
 - 2025.12: One co-author paper is accepted by *Displays*.
 - 2025.10: One paper is accepted by *Pattern Recognition*.
 
