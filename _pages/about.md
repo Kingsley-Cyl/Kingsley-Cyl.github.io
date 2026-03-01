@@ -33,14 +33,14 @@ Email: chenyilin0126@gmail.com / chenyilin0126@126.com
 
 (^Co-first author; *Corresponding author)
 <!-- DeRestormer -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/DeRestormer.png' alt="sym" width=500px height=300px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/DeRestormer.png' alt="sym" width=500px height=300px></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DeRestormer: Revisit versatile image restoration via deformable attention mechanism**
 
 Xiao Lin^, **Yilin Chen**^, Wei Huang, Qizhe Yang, Jingyu Gong*
 
-Pattern Recognition (**PR**), 2025 <span style="color: #f00;">[CCF B]</span>
+Pattern Recognition (**PR**), 2026 <span style="color: #f00;">[CCF B]</span>
 
 [[Paper](https://doi.org/10.1016/j.patcog.2026.113345)] [[Code](https://github.com/Kingsley-Cyl/DeRestormer)]
 </div>
