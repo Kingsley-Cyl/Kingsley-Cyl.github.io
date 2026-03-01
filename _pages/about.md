@@ -24,27 +24,29 @@ Email: chenyilin0126@gmail.com / chenyilin0126@126.com
 
 
 # 🔥 News
-- 2025.12: &nbsp;🎉🎉 One co-author paper is accepted by *Displays*.
-- 2025.10: &nbsp;🎉🎉 One paper is accepted by *Pattern Recognition*.
+- 2026.12: &nbsp;🎉 One paper is accepted by *Pattern Recognition*.
+- 2025.12: One co-author paper is accepted by *Displays*.
+- 2025.10: One paper is accepted by *Pattern Recognition*.
 
 
 # 📝 Publications 
 
 (^Co-first author; *Corresponding author)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/MCD-Net.png' alt="sym" width=500px height=300px></div></div>
+<!-- DeRestormer -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/DeRestormer.png' alt="sym" width=500px height=300px></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Multiple weather degraded image restoration based on multi-component decomposition**
+**DeRestormer: Revisit versatile image restoration via deformable attention mechanism**
 
-Xiao Lin^, **Yilin Chen**^, Duojiu Xu, Qizhe Yang*, Yan Li, Wei Huang, Ping Li
+Xiao Lin^, **Yilin Chen**^, Wei Huang, Qizhe Yang, Jingyu Gong*
 
 Pattern Recognition (**PR**), 2025 <span style="color: #f00;">[CCF B]</span>
 
-[[Paper](https://doi.org/10.1016/j.patcog.2025.112561)] 
+[[Paper](https://doi.org/10.1016/j.patcog.2026.113345) [Code](https://github.com/Kingsley-Cyl/DeRestormer)] 
 </div>
 </div>
 
+<!--RFASR -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Displays 2025</div><img src='images/RFASR.png' alt="sym" width=500px height=300px></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,6 +57,20 @@ Long Qian, **Yilin Chen**, Yuxuan Hong, Lizhuang Ma, Xiao Lin*
 Displays, 2025.
 
 [[Paper](https://doi.org/10.1016/j.displa.2025.103332)] 
+</div>
+</div>
+
+<!-- MCD-Net -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/MCD-Net.png' alt="sym" width=500px height=300px></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multiple weather degraded image restoration based on multi-component decomposition**
+
+Xiao Lin^, **Yilin Chen**^, Duojiu Xu, Qizhe Yang*, Yan Li, Wei Huang, Ping Li
+
+Pattern Recognition (**PR**), 2025 <span style="color: #f00;">[CCF B]</span>
+
+[[Paper](https://doi.org/10.1016/j.patcog.2025.112561)] 
 </div>
 </div>
 
