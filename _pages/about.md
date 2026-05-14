@@ -24,7 +24,8 @@ Email: chenyilin0126@gmail.com / chenyilin0126@126.com
 
 
 # 🔥 News
-- 2026.2: &nbsp;🎉 One paper is accepted by *Pattern Recognition*.
+- 2026.5: One paper is accepted by *Journal of Visual Communication and Image Representation*.
+- 2026.2: One paper is accepted by *Pattern Recognition*.
 - 2025.12: One co-author paper is accepted by *Displays*.
 - 2025.10: One paper is accepted by *Pattern Recognition*.
 
@@ -32,6 +33,21 @@ Email: chenyilin0126@gmail.com / chenyilin0126@126.com
 # 📝 Publications 
 
 (^Co-first author; *Corresponding author)
+
+<!-- FDRM-Net -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCI 2026</div><img src='images/FDRM-Net.png' alt="sym" width=500px height=300px></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FDRM-Net: A Mamba structure for single image deraining with frequency guidance**
+
+**Yilin Chen**^, Wei Huang^, Xiao Lin*, Lizhuang Ma, Ping Li
+
+Journal of Visual Communication and Image Representation (**JVCI**), 2026 <span style="color: #f00;">[CCF C]</span>
+
+[[Paper](https://doi.org/10.1016/j.jvcir.2026.104836)]
+</div>
+</div>
+
 <!-- DeRestormer -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/DeRestormer.png' alt="sym" width=500px height=300px></div></div>
 <div class='paper-box-text' markdown="1">
