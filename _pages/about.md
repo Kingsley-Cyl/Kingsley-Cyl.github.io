@@ -96,6 +96,7 @@ Pattern Recognition (**PR**), 2025 <span style="color: #f00;">[CCF B]</span>
 - National Scholarship (**The highest national wide scholarship for students in China**)
 - First Prize of “HUAWEI Cup” The 21st China Post-Graduate Mathematical Contest in Modeling
 - Shanghai City Silver Prize of the China International College Students' Innovation Competition
+- Outstanding Graduates of Shanghai
 
 
 <span style="font-size: 1.2em;">2019.09-2023.06 (Nanjing Institute of Technology):</span>
